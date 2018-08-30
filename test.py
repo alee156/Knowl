@@ -1,4 +1,5 @@
 import numpy as np
+import hello
 import unittest
 
 class TestMethods(unittest.TestCase):
